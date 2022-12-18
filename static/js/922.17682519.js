@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_admin_1"]=self["webpackChunkvue_cli_admin_1"]||[]).push([[922],{8922:function(n,e,u){u.r(e),u.d(e,{default:function(){return l}});var t=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("首页")])])}],r={name:"index",data:function(){return{}},methods:{}},a=r,c=u(1001),_=(0,c.Z)(a,t,i,!1,null,"0b4a4380",null),l=_.exports}}]);
+//# sourceMappingURL=922.17682519.js.map

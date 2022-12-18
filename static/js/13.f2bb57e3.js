@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_admin_1"]=self["webpackChunkvue_cli_admin_1"]||[]).push([[13],{7013:function(n,e,u){u.r(e),u.d(e,{default:function(){return _}});var t=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v(" 用户")])])}],c={name:"user",data:function(){return{}},methods:{}},i=c,a=u(1001),s=(0,a.Z)(i,t,r,!1,null,"0a7e63c4",null),_=s.exports}}]);
+//# sourceMappingURL=13.f2bb57e3.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_admin_1"]=self["webpackChunkvue_cli_admin_1"]||[]).push([[58],{3058:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=function(){var n=this,e=n._self._c;return e("h1",[n._v("门户管理")])},r=[],a={name:"portal",data:function(){return{}},methods:{}},c=a,l=u(1001),i=(0,l.Z)(c,t,r,!1,null,"e230732c",null),s=i.exports}}]);
+//# sourceMappingURL=58.eb4ee53a.js.map
